@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayaan
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in Java, DevOps
 - 📫 How to reach me: ayaan2536@gmail.com
 
 <!---
